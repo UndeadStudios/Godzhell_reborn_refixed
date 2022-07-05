@@ -1,0 +1,113 @@
+[MOREINFO]
+setPin = false
+bankPin = 
+character-clueid = 0
+character-loyaltyRank = 0
+character-cluelevel = 0
+character-cluestage = 0
+character-Giantkills =0
+character-Ghostkills =0
+character-Druidkills =0
+character-Demonkills =0
+character-JDemonkills 0
+character-Generalkills0
+character-Zombiekills 0
+character-lastlogin = ttoskippline.net
+character-lastlogintime = 20220605
+character-reputation = 0
+character-ancients = 0
+character-starter = 0
+character-rangestarter = 0
+character-magestarter = 0
+character-hasegg = 0
+character-hasset = 0
+character-pkpoints = 0
+character-spawnpoints = 0
+character-killcount = 0
+character-deathcount = 0
+character-mutedate = 0
+character-height = 0
+
+[QUESTS]
+character-questpoints = 0
+character-quest_1 = 0
+character-quest_2 = 0
+character-quest_3 = 0
+
+[LOOK]
+character-look = 0	0
+character-head = 1
+character-torso = 18
+character-arms = 26
+character-hands = 33
+character-legs = 36
+character-feet = 42
+character-beard = 8
+
+character-look = 1	7
+character-head = 1
+character-torso = 18
+character-arms = 26
+character-hands = 33
+character-legs = 36
+character-feet = 42
+character-beard = 8
+
+character-look = 2	8
+character-head = 1
+character-torso = 18
+character-arms = 26
+character-hands = 33
+character-legs = 36
+character-feet = 42
+character-beard = 8
+
+character-look = 3	9
+character-head = 1
+character-torso = 18
+character-arms = 26
+character-hands = 33
+character-legs = 36
+character-feet = 42
+character-beard = 8
+
+character-look = 4	5
+character-head = 1
+character-torso = 18
+character-arms = 26
+character-hands = 33
+character-legs = 36
+character-feet = 42
+character-beard = 8
+
+character-look = 5	0
+character-head = 1
+character-torso = 18
+character-arms = 26
+character-hands = 33
+character-legs = 36
+character-feet = 42
+character-beard = 8
+
+
+[FRIENDS]
+
+[IGNORES]
+
+[HIDDEN]
+character-points = 0
+character-foundz[1] = 0
+character-foundz[2] = 0
+character-foundz[3] = 0
+character-foundz[4] = 0
+character-foundz[5] = 0
+character-foundz[6] = 0
+character-foundz[7] = 0
+character-foundz[8] = 0
+character-foundz[9] = 0
+character-foundz[10] = 0
+character-foundz[11] = 0
+character-foundz[12] = 0
+
+[EOF]
+
